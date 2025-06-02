@@ -1,2 +1,33 @@
 123200101|Monkey D. Dragon|41|Male|O|081200000001|emperor9999|Sky|Kanker Otak
-123200069|Novidi Hantoro|23|Male|O|0919191919191|lakjds983|Mars|
+123200069|Novidi Hantoro|23|Male|O|0919191919191|lakjds983|Mars|-
+123200070|Nami Bellemere|20|Female|B|082233445566|bellexx01|Cocoyasi Village|Demam Tinggi
+123200071|Roronoa Zoro|25|Male|AB|089876543210|santoryu99|East Blue|Luka Dalam
+123200072|Sanji Vinsmoke|24|Male|A|083344556677|blondcook777|Baratie|Asam Lambung
+123200073|Tony Tony Chopper|17|Male|O|081122334455|tanchopper|Drum Island|Flu Berat
+123200074|Robin Nico|30|Female|B|081098765432|archaeo001|Ohara|Gangguan Tidur
+123200075|Franky Cutty Flam|34|Male|B|082211223344|cyborgx777|Water 7|Keracunan
+123200076|Brook Soulking|90|Male|A|080012345678|yohohoho88|Thriller Bark|Tulang Rapuh
+123200077|Jinbe Knight|46|Male|AB|083300112233|fishman333|Fishman Island|Penyumbatan Pembuluh
+123200078|Usopp Sniperking|22|Male|O|081199988877|longnose00|Syrup Village|Flu Berat
+123200079|Portgas D. Ace|26|Male|B|082345678901|firefist001|Mt. Colubo|Luka Dalam
+123200080|Boa Hancock|29|Female|B|081233344455|snakequeen|Amazon Lily|Gangguan Tidur
+123200081|Kuzan Aokiji|45|Male|A|083355667788|iceicebaby|Marine HQ|Asam Lambung
+123200082|Smoker White|38|Male|O|084400112233|smokersaber|Loguetown|Kanker Otak
+123200083|Tashigi Blade|26|Female|A|081299887766|kendoqueen|Marine Base G5|Luka Dalam
+123200084|Sabo Flame|27|Male|AB|083377889900|revsabo|Kamabakka|Kanker Otak
+123200085|Shanks Redhair|39|Male|O|089911223344|yonkou001|New World|Flu Berat
+123200086|Buggy Clown|40|Male|B|082255446677|splitman|Orange Town|Demam Tinggi
+123200087|Dracule Mihawk|43|Male|A|083388899900|swordmaster|Kuraigana Island|Tulang Rapuh
+123200088|Kafka|30|Female|AB|081345678901|silverwolf01|Belobog|Gangguan Tidur
+123200089|Dan Heng|25|Male|A|082356789012|cloudlancer|Xianzhou Luofu|Asam Lambung
+123200090|March 7th|20|Female|O|083367890123|photogirl77|Express Train|Demam Tinggi
+123200091|Welt Yang|40|Male|B|084378901234|gravityman|Earth|Kanker Otak
+123200092|Himeko|35|Female|A|085389012345|pilotlady|Astral Express|Flu Berat
+123200093|Bronya Rand|18|Female|B|086390123456|silvermane|Belobog|Penyumbatan Pembuluh
+123200094|Clara|14|Female|O|087401234567|mr.svarog|Underworld|Luka Dalam
+123200095|Sampo Koski|27|Male|B|088412345678|trickster|Belobog|Keracunan
+123200096|Serval Landau|29|Female|AB|089423456789|guitarqueen|Belobog|Demam Tinggi
+123200097|Gepard Landau|32|Male|A|080434567890|captainice|Belobog|Tulang Rapuh
+123200098|Jing Yuan|38|Male|A|081445678901|lightninglord|Xianzhou Luofu|Kanker Otak
+123200099|Bailu|16|Female|O|082456789012|healerdragon|Xianzhou Luofu|Flu Berat
+123200100|Yanqing|17|Male|B|083467890123|youngblade|Xianzhou Luofu|Luka Dalam
